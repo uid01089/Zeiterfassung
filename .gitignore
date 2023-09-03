@@ -1,0 +1,3 @@
+*.txt
+.pytest_cache
+.venv
